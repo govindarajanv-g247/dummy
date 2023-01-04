@@ -1,2 +1,2 @@
 # dummy
-dummy
+AKIAIOSFODNN7EXAMPLE
